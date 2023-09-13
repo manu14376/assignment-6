@@ -1,0 +1,12 @@
+.list-item {
+  list-style: none;
+  margin: 50px;
+}
+.game-btn {
+  background-color: transparent;
+  border: 0px;
+  cursor: pointer;
+}
+.game-image {
+  height: 200px;
+}
